@@ -1,0 +1,9 @@
+The code in this repository is based on that created for my master's thesis at Utah State University, "Using Natural Language Processing to Quantify the Efficacy of Language Simplification as a Communication Strategy."  
+
+The four folders contain different types of files.  In the Data folder there is both raw data (stories) in the Group 1, Group 2 and Original subfolders.  The .csv files in the data folder are data frames with the results from calculating lexical richness scores for each story, as well as soft cosine similarity scores and statistical test results.  The Functions folder contains two functions which had to be written/adapted to suit my purposes, one to calculated an Advanced Guiraud score based on American English words and the other to calculate a Cohen's d effect size statistic.  The Plots folder contains example plots one can use to compare with their own plots generated from working through the example with their own data.  Lastly, the Scripts folder contains the code examples to work through in the format of Juypter Notebooks.
+
+To run through this code yourself, you'll need to download each folder and have access to either a local Jupyter Notebook implementation or online via Google Colab or similar.  If using a local version of Jupyter, you can either download the files to your working directory or simply change the specified save and load file addresses to your own file path.  
+
+To start working through the provided example, you will need to first complete the "Test Original," "Test Group 1" and "Test Group 2" scripts, in any order.  Then move to either the "Test Lexical Richness Plots" or "Test Statistical Testing" scripts before finishing with "Test Soft Cosine Similarity."
+
+I hope someone out there finds my example helpful in completing your own research or solving a problem!
