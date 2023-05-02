@@ -17,7 +17,7 @@ To start working through the provided example, you will need to first complete t
 Then move to either the "Test Lexical Richness Plots" or "Test Statistical Testing" scripts.  The plots script will create box plots with overlaid data points (like this one below) ![box plot with points](https://github.com/bcnalley/lexical-simplification-nlp/blob/main/Plots/MSTTR_boxplot_points.png?raw=true).  After running the testing script, you will have results to tests which check normality and homogeneity of variance assumptions for 1 and 2 sample t-tests.
 
 ## 5 
-Finish with "Test Soft Cosine Similarity."  This script will leave you with a box plot () and soft cosine similarity scores for each story and group of stories.
+Finish with "Test Soft Cosine Similarity."  This script will leave you with a box plot (like the one below) ![soft cosine similarity box plot](https://github.com/bcnalley/lexical-simplification-nlp/blob/main/Plots/SCS.png?raw=true) and soft cosine similarity scores for each story and group of stories.
 
 
 I hope someone out there finds my example helpful in completing your own research or solving a problem!
