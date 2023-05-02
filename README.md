@@ -5,7 +5,7 @@ The code contained in this repository will allow anyone to repeat the analyses d
 # Instructions
 
 ## 1 
-To run through this code yourself, you'll need to download each folder and have access to either a local Jupyter Notebook implementation or online via [Google Colab](https://colab.research.google.com/) or similar.  Local versions of JupyterLab or a traditional Juypter Notebook can be downloaded from [Project Jupyter](https://jupyter.org/) or are included in the basic [Anaconda](https://www.anaconda.com/) installation.  
+To run through this code yourself, you'll need to download each folder and have access to either a local Jupyter Notebook implementation or online via [Google Colab](https://colab.research.google.com/) or similar.  Local versions of JupyterLab or a traditional Juypter Notebook can be downloaded from [Project Jupyter](https://jupyter.org/) or are included in the basic [Anaconda](https://www.anaconda.com/) installation.  To use your own transcripts instead of the provided examples, you can either replace the examples in the folder with your .txt files or simply change the file path in the pipeline (Step 3) to the folder where the files are stored locally.
 
 ## 2 
 If using a local version of Jupyter, you can either download the files to your working directory or simply change the specified save and load paths to your own file path.  If using Colab, they have information on how to directly link to this repository [here](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb).
