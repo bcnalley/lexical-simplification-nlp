@@ -14,7 +14,7 @@ If using a local version of Jupyter, you can either download the files to your w
 To start working through the provided example, you will need to first complete the "Test Original," "Test Group 1" and "Test Group 2" scripts, in any order.  The result of this step will be three data frames, one each for the original text, group 1 and group 2.
 
 ## 4 
-Then move to either the "Test Lexical Richness Plots" or "Test Statistical Testing" scripts.  The plots script will create box plots with overlaid data points (like this one ![box plot with points](https://github.com/bcnalley/lexical-simplification-nlp/blob/main/Plots/MSTTR_boxplot_points.png?raw=true)).  After running the testing script, you will have results to tests which check normality and homogeneity of variance assumptions for 1 and 2 sample t-tests.
+Then move to either the "Test Lexical Richness Plots" or "Test Statistical Testing" scripts.  The plots script will create box plots with overlaid data points (like this one below) ![box plot with points](https://github.com/bcnalley/lexical-simplification-nlp/blob/main/Plots/MSTTR_boxplot_points.png?raw=true).  After running the testing script, you will have results to tests which check normality and homogeneity of variance assumptions for 1 and 2 sample t-tests.
 
 ## 5 
 Finish with "Test Soft Cosine Similarity."  This script will leave you with a box plot () and soft cosine similarity scores for each story and group of stories.
